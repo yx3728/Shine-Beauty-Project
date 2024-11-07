@@ -27,7 +27,7 @@ This app is a comprehensive membership management software tailored for beauty s
 To run the app locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/beauty-salon-management.git
+   git clone https://github.com/yx3728/p1.git
    ```
 2. Open the project in Xcode.
 3. Install any necessary dependencies.
