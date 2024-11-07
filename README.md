@@ -1,4 +1,3 @@
-# p1
 # Shine Medical Spa
 
 ## Overview
